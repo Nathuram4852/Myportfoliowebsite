@@ -1,0 +1,43 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+.headerset{
+    padding-top: 200px;
+    box-sizing: border-box;
+}
+
+.headerset h2{
+    font-size: 42px;
+
+}
+
+.headerset h1{
+font-size: 82px;
+font-weight: bold;
+}
+
+body{
+    height: 100%;
+    font-size: 1rem;
+}
+
+nav{
+    background: #fff;
+    box-shadow: 0 0 29px rgb(134 134 134/25%);
+
+}
+
+.page-header{
+    margin-top: 5rem;
+    font-size: 1.25rem;
+    color: #000000;
+}
+
+.header-img{
+    height: 312px;
+    padding: 18px;
+}
+.about-img{
+    height: 500px;
+}
